@@ -1,6 +1,6 @@
 ### :raised_hand: Hey! Nice to see you.
-> Myname is Taweechai Poedee :dizzy:
-- :books: _I am studying at Suranaree University_ 
+> My name is Taweechai Poedee. :dizzy:
+- :books: _I am studying at Suranaree University_ .
 #### You can follow me from
 
 | No | Channel | Link |
