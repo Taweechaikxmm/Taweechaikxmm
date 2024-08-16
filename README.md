@@ -46,6 +46,28 @@
 ![VSCode](https://img.shields.io/badge/VS%20Code--blue?style=for-the-badge&logo=visualstudiocode)
 ![Vite](https://img.shields.io/badge/Vite--lightblue?style=for-the-badge&logo=vite)
 
+## 🔍 Pentest Tools
+
+### **Network Scanning**
+- **Nmap**
+  ![Nmap](https://img.shields.io/badge/Nmap-100%25-green?style=for-the-badge&logo=nmap)
+
+### **Web Application Testing**
+- **Wfuzz**
+  ![Wfuzz](https://img.shields.io/badge/Wfuzz-100%25-orange?style=for-the-badge&logo=python)
+- **Gobuster**
+  ![Gobuster](https://img.shields.io/badge/Gobuster-100%25-lightgrey?style=for-the-badge&logo=go)
+
+### **Web Security Testing**
+- **OWASP ZAP**
+  ![OWASP ZAP](https://img.shields.io/badge/OWASP%20ZAP-100%25-red?style=for-the-badge&logo=zap)
+
+### **Exploit Tools**
+- **Kiterunner**
+  ![Kiterunner](https://img.shields.io/badge/Kiterunner-100%25-yellow?style=for-the-badge&logo=python)
+- **LOIC**
+  ![LOIC](https://img.shields.io/badge/LOIC-100%25-black?style=for-the-badge&logo=github)
+
 ## 📊 GitHub Stats
 <table>
   <tr>
