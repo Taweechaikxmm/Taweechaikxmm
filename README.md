@@ -7,6 +7,7 @@
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" alt="Coding GIF" width="20" height="20" style="vertical-align: middle;"/>
   <strong>🌟 About Me</strong>
 </p>
+
 - 🎓 Graduated from [Suranaree University](https://www.su.ac.th)
 - 🚀 Passionate about software development and open source
 - 🌍 [Facebook](https://www.facebook.com/profile.php?id=100009374632098) | [Instagram](https://www.instagram.com/tpkxmm._)
