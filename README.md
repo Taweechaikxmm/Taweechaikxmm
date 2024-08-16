@@ -9,3 +9,6 @@
 | 2 | Instagram | https://www.instagram.com/tpkxmm._ |
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Taweechaikxmm&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Taweechaikxmm&hide_progress=true)
+
+
