@@ -1,5 +1,7 @@
 # :raised_hand: Hey! Nice to see you. I'm Kxm.
 > I’m a software engineer with a keen interest in server management, configuration, and Infrastructure as Code (IaC).
+>
+> 🥷Currently, I work with GitLab, so my GitHub may not be as up-to-date.
 ![Coding GIF](https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif)
 
 <p>
