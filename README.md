@@ -1,6 +1,5 @@
-# :raised_hand: Hey! Nice to see you.
-> I'm Kim.:dizzy:
-
+# :raised_hand: Hey! Nice to see you. I'm Kim.
+> I’m a software engineer with a keen interest in server management, configuration, and Infrastructure as Code (IaC).
 ![Coding GIF](https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif)
 
 <p>
