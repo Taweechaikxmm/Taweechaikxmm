@@ -15,35 +15,35 @@
 ## 💻 Skills
 ### **📚 Languages**
 ![JavaScript](https://img.shields.io/badge/JavaScript--yellow?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-80%25-blue?style=for-the-badge&logo=typescript)
-![HTML5](https://img.shields.io/badge/HTML5-90%25-orange?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-85%25-blue?style=for-the-badge&logo=css3)
-![Python](https://img.shields.io/badge/Python-70%25-blue?style=for-the-badge&logo=python)
-![C#](https://img.shields.io/badge/C%23-60%25-purple?style=for-the-badge&logo=csharp)
-![Go](https://img.shields.io/badge/Go-50%25-lightgrey?style=for-the-badge&logo=go)
-![Java](https://img.shields.io/badge/Java-50%25-red?style=for-the-badge&logo=java)
-![C](https://img.shields.io/badge/C-40%25-darkgrey?style=for-the-badge&logo=c)
-![C++](https://img.shields.io/badge/C%2B%2B-40%25-green?style=for-the-badge&logo=cplusplus)
-![PHP](https://img.shields.io/badge/PHP-30%25-blueviolet?style=for-the-badge&logo=php)
+![TypeScript](https://img.shields.io/badge/TypeScript--blue?style=for-the-badge&logo=typescript)
+![HTML5](https://img.shields.io/badge/HTML5--orange?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS--blue?style=for-the-badge&logo=css3)
+![Python](https://img.shields.io/badge/Python--blue?style=for-the-badge&logo=python)
+![C#](https://img.shields.io/badge/C%23--purple?style=for-the-badge&logo=csharp)
+![Go](https://img.shields.io/badge/Go--lightgrey?style=for-the-badge&logo=go)
+![Java](https://img.shields.io/badge/Java--red?style=for-the-badge&logo=java)
+![C](https://img.shields.io/badge/C--darkgrey?style=for-the-badge&logo=c)
+![C++](https://img.shields.io/badge/C%2B%2B--green?style=for-the-badge&logo=cplusplus)
+![PHP](https://img.shields.io/badge/PHP--blueviolet?style=for-the-badge&logo=php)
 
 ### **🛠️ Frameworks**
-![React](https://img.shields.io/badge/React-80%25-blue?style=for-the-badge&logo=react)
-![.NET Core](https://img.shields.io/badge/.NET%20Core-70%25-green?style=for-the-badge&logo=dotnet)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-60%25-blue?style=for-the-badge&logo=tailwindcss)
-![MUI](https://img.shields.io/badge/MUI-50%25-lightblue?style=for-the-badge&logo=mui)
+![React](https://img.shields.io/badge/React--blue?style=for-the-badge&logo=react)
+![.NET Core](https://img.shields.io/badge/.NET%20Core--green?style=for-the-badge&logo=dotnet)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS--blue?style=for-the-badge&logo=tailwindcss)
+![MUI](https://img.shields.io/badge/MUI--lightblue?style=for-the-badge&logo=mui)
 
 ### **🗄️ Databases**
-![MySQL](https://img.shields.io/badge/MySQL-100%25-blue?style=for-the-badge&logo=mysql)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-100%25-green?style=for-the-badge&logo=microsoftsqlserver)
-![SQLite](https://img.shields.io/badge/SQLite-100%25-yellowgreen?style=for-the-badge&logo=sqlite)
+![MySQL](https://img.shields.io/badge/MySQL--blue?style=for-the-badge&logo=mysql)
+![SQL Server](https://img.shields.io/badge/SQL%20Server--green?style=for-the-badge&logo=microsoftsqlserver)
+![SQLite](https://img.shields.io/badge/SQLite--yellowgreen?style=for-the-badge&logo=sqlite)
 
 ### **🔧 Tools**
-![Git](https://img.shields.io/badge/Git-100%25-red?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-100%25-black?style=for-the-badge&logo=github)
-![GitLab](https://img.shields.io/badge/GitLab-100%25-orange?style=for-the-badge&logo=gitlab)
-![Docker](https://img.shields.io/badge/Docker-100%25-blue?style=for-the-badge&logo=docker)
-![VSCode](https://img.shields.io/badge/VS%20Code-100%25-blue?style=for-the-badge&logo=visualstudiocode)
-![Vite](https://img.shields.io/badge/Vite-100%25-lightblue?style=for-the-badge&logo=vite)
+![Git](https://img.shields.io/badge/Git--red?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub--black?style=for-the-badge&logo=github)
+![GitLab](https://img.shields.io/badge/GitLab--orange?style=for-the-badge&logo=gitlab)
+![Docker](https://img.shields.io/badge/Docker--blue?style=for-the-badge&logo=docker)
+![VSCode](https://img.shields.io/badge/VS%20Code--blue?style=for-the-badge&logo=visualstudiocode)
+![Vite](https://img.shields.io/badge/Vite--lightblue?style=for-the-badge&logo=vite)
 
 ## 📊 GitHub Stats
 <table>
