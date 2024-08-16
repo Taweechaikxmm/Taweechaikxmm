@@ -14,7 +14,7 @@
 
 ## 📧 Contact Me
 
-- Email: <img src="https://img.shields.io/badge/-Email-blue?style=flat-square&logo=gmail&logoColor=white&link=mailto:your-email@example.com" alt="Email Badge">
+- Email: <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white&link=mailto:taweechaipoedee8@gmail.com" alt="Email Badge">
 - LinkedIn: <img src="https://img.shields.io/badge/-Taweechai_Poedee-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/taweechai-poedee-a821842b3/" alt="LinkedIn Badge">
 
 ## 💻 Skills
