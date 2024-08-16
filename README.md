@@ -50,6 +50,7 @@
 
 ### **Network Scanning**
 - **Nmap**
+  
   ![Nmap](https://img.shields.io/badge/Nmap-100%25-green?style=for-the-badge&logo=nmap)
 
 ### **Web Application Testing**
