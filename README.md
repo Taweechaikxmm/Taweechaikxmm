@@ -31,13 +31,19 @@
 ![SQLite](https://img.shields.io/badge/SQLite-100%25-yellowgreen?style=for-the-badge&logo=sqlite)
 
 ### **Tools:**
-![VSCode](https://img.shields.io/badge/VSCode-100%25-blue) ![Docker](https://img.shields.io/badge/Docker-90%25-yellowgreen)
+![Git](https://img.shields.io/badge/Git-100%25-red?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-100%25-black?style=for-the-badge&logo=github)
+![GitLab](https://img.shields.io/badge/GitLab-100%25-orange?style=for-the-badge&logo=gitlab)
+![Docker](https://img.shields.io/badge/Docker-100%25-blue?style=for-the-badge&logo=docker)
+![VSCode](https://img.shields.io/badge/VS%20Code-100%25-blue?style=for-the-badge&logo=visualstudiocode)
+![Vite](https://img.shields.io/badge/Vite-100%25-lightblue?style=for-the-badge&logo=vite)
+
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Taweechaikxmm&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Taweechaikxmm&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Contributions
 ![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Taweechaikxmm&theme=dark)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Taweechaikxmm&theme=radical)
-![Footer Image](https://raw.githubusercontent.com/Taweechaikxmm/Taweechaikxmm/main/assets/footer.png)
 
 
