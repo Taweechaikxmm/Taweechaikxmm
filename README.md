@@ -12,8 +12,7 @@
 
 - 🎓 Graduated with a Bachelor's degree in Computer Engineering from [Suranaree University Of Technology](https://www.sut.ac.th/)
 - 🚀 Passionate about software development and open source
-- 🌍 <span>
-<a href="https://www.facebook.com/profile.php?id=100009374632098" target="_blank">
+- 🌍 <span><a href="https://www.facebook.com/profile.php?id=100009374632098" target="_blank">
   <img src="https://img.shields.io/badge/-Facebook-blue?style=flat-square&logo=facebook&logoColor=white" alt="Facebook Badge">
 </a>
 <a href="https://www.instagram.com/tpkxmm._/" target="_blank">
