@@ -11,7 +11,7 @@
 ## Skills
 - **Languages:** JavaScript, TypeScript, Python, C#, GO, Java, C, C++, PHP
 - **Frameworks:** React, .NET Core, Tailwind CSS, MUI
-- 
+- **Tools:** ![VSCode](https://img.shields.io/badge/VSCode-100%25-blue) ![Docker](https://img.shields.io/badge/Docker-90%25-yellowgreen)
 ## GitHub Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Taweechaikxmm&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 ## Contributions
