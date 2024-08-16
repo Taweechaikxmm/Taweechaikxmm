@@ -1,5 +1,7 @@
 ### :raised_hand: Hey! Nice to see you.
 > My name is Taweechai Poedee. :dizzy:
+> ![Coding GIF](https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif)
+
 ## 🌟 About Me
 - 🎓 Graduated from [Suranaree University](https://www.su.ac.th)
 - 🚀 Passionate about software development and open source
