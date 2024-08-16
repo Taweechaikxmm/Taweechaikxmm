@@ -28,7 +28,7 @@
 ![HTML5](https://img.shields.io/badge/HTML5--orange?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/CSS--blue?style=for-the-badge&logo=css3)
 ![Python](https://img.shields.io/badge/Python--blue?style=for-the-badge&logo=python)
-![C#](https://img.shields.io/badge/C%23--purple?style=for-the-badge&logo=csharp)
+![C#](https://img.shields.io/badge/C%23--purple?style=for-the-badge&logo=cs)
 ![Go](https://img.shields.io/badge/Go--lightgrey?style=for-the-badge&logo=go)
 ![Java](https://img.shields.io/badge/Java--red?style=for-the-badge&logo=java)
 ![C](https://img.shields.io/badge/C--darkgrey?style=for-the-badge&logo=c)
