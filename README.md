@@ -1,4 +1,4 @@
-### :raised_hand: Hey! Nice to see you.
+# :raised_hand: Hey! Nice to see you.
 > I'm Kim.:dizzy:
 
 ![Coding GIF](https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif)
@@ -11,6 +11,11 @@
 - 🎓 Graduated from [Suranaree University](https://www.su.ac.th)
 - 🚀 Passionate about software development and open source
 - 🌍 [Facebook](https://www.facebook.com/profile.php?id=100009374632098) | [Instagram](https://www.instagram.com/tpkxmm._)
+
+## 📧 Contact Me
+
+- Email: [taweechaipoedee8@gmail.com](mailto:taweechaipoedee8@gmail.com)
+- LinkedIn: [Taweechai Poedee](https://www.linkedin.com/in/taweechai-poedee-a821842b3/)
 
 ## 💻 Skills
 ### **📚 Languages**
