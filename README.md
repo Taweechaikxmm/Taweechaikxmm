@@ -1,8 +1,7 @@
 ### :raised_hand: Hey! Nice to see you.
 > My name is Taweechai Poedee. :dizzy:
-- :books: _I am studying at Suranaree University_ .
 ## 🌟 About Me
-- 🎓 Studying at [Suranaree University](https://www.su.ac.th)
+- 🎓 Graduated from [Suranaree University](https://www.su.ac.th)
 - 🚀 Passionate about software development and open source
 - 🌍 [Facebook](https://www.facebook.com/profile.php?id=100009374632098) | [Instagram](https://www.instagram.com/tpkxmm._)
 
@@ -25,7 +24,13 @@
 ![.NET Core](https://img.shields.io/badge/.NET%20Core-70%25-green?style=for-the-badge&logo=dotnet)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-60%25-blue?style=for-the-badge&logo=tailwindcss)
 ![MUI](https://img.shields.io/badge/MUI-50%25-lightblue?style=for-the-badge&logo=mui)
-**Tools:**
+
+### **Databases**
+![MySQL](https://img.shields.io/badge/MySQL-100%25-blue?style=for-the-badge&logo=mysql)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-100%25-green?style=for-the-badge&logo=microsoftsqlserver)
+![SQLite](https://img.shields.io/badge/SQLite-100%25-yellowgreen?style=for-the-badge&logo=sqlite)
+
+### **Tools:**
 ![VSCode](https://img.shields.io/badge/VSCode-100%25-blue) ![Docker](https://img.shields.io/badge/Docker-90%25-yellowgreen)
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Taweechaikxmm&show_icons=true&theme=radical)
