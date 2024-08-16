@@ -1,3 +1,4 @@
+![Header Image](https://raw.githubusercontent.com/Taweechaikxmm/Taweechaikxmm/main/assets/header.png)
 ### :raised_hand: Hey! Nice to see you.
 > My name is Taweechai Poedee. :dizzy:
 - :books: _I am studying at Suranaree University_ .
