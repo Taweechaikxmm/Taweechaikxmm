@@ -39,9 +39,13 @@
 ### **🛠️ Frameworks**
 ![React](https://img.shields.io/badge/React--blue?style=for-the-badge&logo=react)
 ![Node.js](https://img.shields.io/badge/Node.js--yellowgreen?style=for-the-badge&logo=node.js)
+![Gin](https://img.shields.io/badge/Gin--blue?style=for-the-badge&logo=go)
 ![ASP.NET Core(C#)](https://img.shields.io/badge/.NET%20Core--green?style=for-the-badge&logo=dotnet)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS--blue?style=for-the-badge&logo=tailwindcss)
 ![MUI](https://img.shields.io/badge/MUI--lightblue?style=for-the-badge&logo=mui)
+
+### **🔗 ORM**
+![Gorm](https://img.shields.io/badge/Gorm--blue?style=for-the-badge&logo=go)
 
 ### **🗄️ Databases**
 ![MySQL](https://img.shields.io/badge/MySQL--blue?style=for-the-badge&logo=mysql)
