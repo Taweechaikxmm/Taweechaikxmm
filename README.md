@@ -43,15 +43,15 @@
 <div style="display: flex; gap: 10px; align-items: flex-start;">
   <div style="flex: 1; max-width: 45%; display: flex; flex-direction: column; gap: 10px;">
     <div>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Taweechaikxmm&theme=radical" alt="GitHub Streak" style="width: 100%; max-width: 400px; height: auto;"/>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Taweechaikxmm&theme=radical" alt="GitHub Streak" style="width: 40%; max-width: 400px; height: auto;"/>
     </div>
     <div>
-      <img src="https://github-readme-stats.vercel.app/api?username=Taweechaikxmm&show_icons=true&theme=radical" alt="GitHub Stats" style="width: 100%; max-width: 400px; height: auto;"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=Taweechaikxmm&show_icons=true&theme=radical" alt="GitHub Stats" style="width: 40%; max-width: 400px; height: auto;"/>
     </div>
   </div>
   <div style="flex: 1; max-width: 45%;">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Taweechaikxmm&layout=donut-vertical&bg_color=000000" alt="Top Languages" style="width: 100%; max-width: 400px; height: auto;"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Taweechaikxmm&layout=donut-vertical&bg_color=000000" alt="Top Languages" style="width: 40%; max-width: 400px; height: auto;"/>
     </a>
   </div>
 </div>
