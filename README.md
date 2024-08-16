@@ -56,7 +56,8 @@
 </table>
 
 ## Contributions
-![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Taweechaikxmm&theme=dark)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Taweechaikxmm&theme=dark" alt="GitHub Contributions" width="100%"/>
+
 
 
 
