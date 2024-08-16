@@ -61,7 +61,9 @@
 ### **Exploit Tools**
   ![Kiterunner](https://img.shields.io/badge/Kiterunner-100%25-yellow?style=for-the-badge&logo=python)
   ![LOIC](https://img.shields.io/badge/LOIC-100%25-black?style=for-the-badge&logo=github)
-
+  
+### **Penetration Testing Distributions**
+  <img src="https://www.kali.org/images/kali-logo.svg" alt="Kali Linux" width="100" height="30" />
 ## 📊 GitHub Stats
 <table>
   <tr>
