@@ -8,7 +8,6 @@
 | 1 | Facebook | https://www.facebook.com/profile.php?id=100009374632098 |
 | 2 | Instagram | https://www.instagram.com/tpkxmm._ |
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Taweechaikxmm&hide_progress=true)
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Taweechaikxmm)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Taweechaikxmm&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
 
