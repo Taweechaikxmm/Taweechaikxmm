@@ -2,10 +2,11 @@
 > I’m a software engineer with a keen interest in server management, configuration, and Infrastructure as Code (IaC).
 >
 > 🥷Currently, I work with GitLab, so my GitHub may not be as up-to-date.
+> 
 ![Coding GIF](https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif)
 
 <p>
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" alt="Coding GIF" width="20" height="20" style="vertical-align: middle;"/>
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" alt="Coding GIF" width="40" height="40" style="vertical-align: middle;"/>
   <strong>🌟 About Me</strong>
 </p>
 
