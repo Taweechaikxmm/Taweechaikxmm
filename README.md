@@ -13,7 +13,6 @@
 - 🌍 [Facebook](https://www.facebook.com/profile.php?id=100009374632098) | [Instagram](https://www.instagram.com/tpkxmm._)
 
 ## 📧 Contact Me
-
 <img src="https://img.shields.io/badge/-taweechaipoedee8@gmail.com-red?style=flat-square&logo=gmail&logoColor=white&link=mailto:taweechaipoedee8@gmail.com" alt="Email Badge">
 <img src="https://img.shields.io/badge/-Taweechai_Poedee-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/taweechai-poedee-a821842b3/" alt="LinkedIn Badge">
 
@@ -54,7 +53,7 @@
 ## 🔍 Pentest Skills
 
 ### **Network Scanning**
-  ![Nmap](https://img.shields.io/badge/Nmap--green?style=for-the-badge&logo=nmap)
+  ![Nmap](https://img.shields.io/badge/Nmap--green?style=for-the-badge&logo=https://www.cellstream.com/wp-content/uploads/2014/07/nmap.png)
 
 ### **Web Application Testing**
   ![Wfuzz](https://img.shields.io/badge/Wfuzz--orange?style=for-the-badge&logo=python)
