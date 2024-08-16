@@ -74,12 +74,10 @@
 <table>
   <tr>
     <td>
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs" alt="WakaTime Stats" />
-      </a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Taweechaikxmm&layout=donut-vertical&bg_color=000000&text_color=FFFFFF" alt="Top Languages" />
     </td>
     <td rowspan="2">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Taweechaikxmm&layout=donut-vertical&bg_color=000000&text_color=FFFFFF" alt="Top Languages" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Taweechaikxmm&theme=radical" alt="GitHub Streak" width="100%"/>
     </td>
   </tr>
   <tr>
