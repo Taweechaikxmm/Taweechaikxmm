@@ -28,6 +28,7 @@
 ![C](https://img.shields.io/badge/C--darkgrey?style=for-the-badge&logo=c)
 ![C++](https://img.shields.io/badge/C%2B%2B--green?style=for-the-badge&logo=cplusplus)
 ![PHP](https://img.shields.io/badge/PHP--blueviolet?style=for-the-badge&logo=php)
+![Dart](https://img.shields.io/badge/Dart--blue?style=for-the-badge&logo=dart)
 
 ### **🛠️ Frameworks**
 ![React](https://img.shields.io/badge/React--blue?style=for-the-badge&logo=react)
