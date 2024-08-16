@@ -44,10 +44,10 @@
   <!-- Left Column with two stats -->
   <div style="flex: 1; display: flex; flex-direction: column; gap: 10px;">
     <div style="display: flex; justify-content: center;">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Taweechaikxmm&theme=radical" alt="GitHub Streak" style="width: 50%; height: auto;"/>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Taweechaikxmm&theme=radical" alt="GitHub Streak" style="width: 20%; height: auto;"/>
     </div>
     <div style="display: flex; justify-content: center;">
-      <img src="https://github-readme-stats.vercel.app/api?username=Taweechaikxmm&show_icons=true&theme=radical" alt="GitHub Stats" style="width: 50%; height: auto;"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=Taweechaikxmm&show_icons=true&theme=radical" alt="GitHub Stats" style="width: 20%; height: auto;"/>
     </div>
   </div>
   
