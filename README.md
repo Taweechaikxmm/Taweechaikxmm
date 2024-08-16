@@ -91,3 +91,8 @@
     </td>
   </tr>
 </table>
+
+<!-- Footer -->
+<footer>
+  <p>Made with ❤️ using Markdown & HTML</p>
+</footer>
