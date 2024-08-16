@@ -22,6 +22,11 @@
 <img src="https://img.shields.io/badge/-Taweechai_Poedee-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/taweechai-poedee-a821842b3/" alt="LinkedIn Badge">
 
 ## 💻 Skills
+### 🎓 Currently Learning
+![React Native](https://img.shields.io/badge/React%20Native-Currently%20Learning-brightgreen?style=for-the-badge&logo=react)
+![Linux CLI](https://img.shields.io/badge/Linux%20CLI-Currently%20Learning-blue?style=for-the-badge&logo=linux)
+![Flutter](https://img.shields.io/badge/Flutter-Currently%20Learning-blue?style=for-the-badge&logo=flutter)
+
 ### **📚 Languages**
 ![JavaScript](https://img.shields.io/badge/JavaScript--yellow?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript--blue?style=for-the-badge&logo=typescript)
