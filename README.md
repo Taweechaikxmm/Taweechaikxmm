@@ -8,6 +8,9 @@
 | 1 | Facebook | https://www.facebook.com/profile.php?id=100009374632098 |
 | 2 | Instagram | https://www.instagram.com/tpkxmm._ |
 
+## GitHub Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Taweechaikxmm&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+## Contributions
+![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Taweechaikxmm&theme=dark)
 
 
