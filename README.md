@@ -58,21 +58,21 @@
 
 ## 🔍 Pentest Skills
 
-### **Network Scanning**
+### **Network Scanning** 🕵️‍♂️
 ![Nmap](https://img.shields.io/badge/Nmap--blue?style=for-the-badge&logo=https://www.cellstream.com/wp-content/uploads/2014/07/nmap.png)
 
-### **Web Application Testing**
+### **Web Application Testing** 🌐
   ![Wfuzz](https://img.shields.io/badge/Wfuzz--darkblue?style=for-the-badge&logo=Wfuzz)
   ![Gobuster](https://img.shields.io/badge/Gobuster--lightgrey?style=for-the-badge&logo=gobuster)
 
-### **Web Security Testing**
+### **Web Security Testing** 🔒
   ![OWASP ZAP](https://img.shields.io/badge/OWASP%20ZAP--blue?style=for-the-badge&logo=zap)
 
-### **Exploit Tools**
+### **Exploit Tools** 💥
   ![Kiterunner](https://img.shields.io/badge/Kiterunner--yellow?style=for-the-badge&logo=kiterrunner)
   ![LOIC](https://img.shields.io/badge/LOIC--black?style=for-the-badge&logo=loic)
   
-### **Penetration Testing Distributions**
+### **Penetration Testing Distributions** 💻
   <img src="https://www.kali.org/images/kali-logo.svg" alt="Kali Linux" width="100" height="30" />
 
 ## 📊 GitHub Stats
