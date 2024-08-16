@@ -7,7 +7,7 @@
 
 <p>
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" alt="Coding GIF" width="40" height="40" style="vertical-align: middle;"/>
-  <strong>🌟 About Me</strong>
+  <h3>🌟 About Me</h3>
 </p>
 
 - 🎓 Graduated with a Bachelor's degree in Computer Engineering from [Suranaree University Of Technology](https://www.sut.ac.th/)
