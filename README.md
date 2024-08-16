@@ -53,7 +53,10 @@
 ## 🔍 Pentest Skills
 
 ### **Network Scanning**
-  ![Nmap](https://img.shields.io/badge/Nmap--green?style=for-the-badge&logo=https://www.cellstream.com/wp-content/uploads/2014/07/nmap.png)
+  <a href="https://nmap.org/">
+  <img src="https://www.cellstream.com/wp-content/uploads/2014/07/nmap.png" alt="Nmap" width="100" height="20" style="vertical-align: middle;"/>
+  Nmap
+</a>
 
 ### **Web Application Testing**
   ![Wfuzz](https://img.shields.io/badge/Wfuzz--orange?style=for-the-badge&logo=python)
