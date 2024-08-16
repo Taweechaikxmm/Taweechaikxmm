@@ -46,7 +46,7 @@
 ![VSCode](https://img.shields.io/badge/VS%20Code--blue?style=for-the-badge&logo=visualstudiocode)
 ![Vite](https://img.shields.io/badge/Vite--lightblue?style=for-the-badge&logo=vite)
 
-## 🔍 Pentest Tools
+## 🔍 Pentest Skills
 
 ### **Network Scanning**
   ![Nmap](https://img.shields.io/badge/Nmap-100%25-green?style=for-the-badge&logo=nmap)
