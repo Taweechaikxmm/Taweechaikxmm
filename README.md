@@ -54,7 +54,7 @@
   <!-- Right Column with one stat -->
   <div style="flex: 1;">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Taweechaikxmm&layout=donut-vertical&bg_color=000000" alt="Top Languages" style="width: 50%; max-width: 400px; height: auto;"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Taweechaikxmm&layout=donut-vertical&bg_color=000000" alt="Top Languages" style="width: 40%; max-width: 400px; height: auto;"/>
     </a>
   </div>
 </div>
