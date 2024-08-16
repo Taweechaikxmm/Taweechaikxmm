@@ -56,15 +56,15 @@
 ![Nmap](https://img.shields.io/badge/Nmap--green?style=for-the-badge&logo=https://www.cellstream.com/wp-content/uploads/2014/07/nmap.png)
 
 ### **Web Application Testing**
-  [![Wfuzz](https://raw.githubusercontent.com/xmendez/wfuzz/1b695ee9a87d66a7d7bf6cae70d60a33fae51541/docs/_static/logo/wfuzz_letters.svg)](https://wfuzz.readthedocs.io/)
-  ![Gobuster](https://img.shields.io/badge/Gobuster--lightgrey?style=for-the-badge&logo=go)
+  ![Wfuzz](https://img.shields.io/badge/Wfuzz--lightgrey?style=for-the-badge&logo=Wfuzz)
+  ![Gobuster](https://img.shields.io/badge/Gobuster--lightgrey?style=for-the-badge&logo=gobuster)
 
 ### **Web Security Testing**
   ![OWASP ZAP](https://img.shields.io/badge/OWASP%20ZAP--red?style=for-the-badge&logo=zap)
 
 ### **Exploit Tools**
-  ![Kiterunner](https://img.shields.io/badge/Kiterunner--yellow?style=for-the-badge&logo=python)
-  ![LOIC](https://img.shields.io/badge/LOIC--black?style=for-the-badge&logo=github)
+  ![Kiterunner](https://img.shields.io/badge/Kiterunner--yellow?style=for-the-badge&logo=kiterrunner)
+  ![LOIC](https://img.shields.io/badge/LOIC--black?style=for-the-badge&logo=loic)
   
 ### **Penetration Testing Distributions**
   <img src="https://www.kali.org/images/kali-logo.svg" alt="Kali Linux" width="100" height="30" />
