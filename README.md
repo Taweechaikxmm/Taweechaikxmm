@@ -39,30 +39,21 @@
 ![Vite](https://img.shields.io/badge/Vite-100%25-lightblue?style=for-the-badge&logo=vite)
 
 ## GitHub Stats
-<!-- GitHub Stats Section -->
-<div style="display: flex; gap: 10px;">
-  <!-- Left Column with two stats -->
-  <div style="flex: 1; display: flex; flex-direction: column; gap: 10px;">
-    <div style="display: flex; justify-content: center;">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Taweechaikxmm&theme=radical" alt="GitHub Streak" style="width: 20%; height: auto;"/>
-    </div>
-    <div style="display: flex; justify-content: center;">
-      <img src="https://github-readme-stats.vercel.app/api?username=Taweechaikxmm&show_icons=true&theme=radical" alt="GitHub Stats" style="width: 20%; height: auto;"/>
-    </div>
-  </div>
-  
-  <!-- Right Column with one stat -->
-  <div style="flex: 1; display: flex; justify-content: center; align-items: center;">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Taweechaikxmm&layout=donut-vertical&bg_color=000000" alt="Top Languages" style="width: 50%; height: auto;"/>
-    </a>
-  </div>
-</div>
-
-
-
-
-
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Taweechaikxmm&theme=radical" alt="GitHub Streak" />
+    </td>
+    <td rowspan="2">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Taweechaikxmm&layout=donut-vertical&bg_color=000000" alt="Top Languages" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Taweechaikxmm&show_icons=true&theme=radical" alt="GitHub Stats" />
+    </td>
+  </tr>
+</table>
 
 ## Contributions
 ![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Taweechaikxmm&theme=dark)
