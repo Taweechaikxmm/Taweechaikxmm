@@ -49,7 +49,7 @@
 ## 🔍 Pentest Skills
 
 ### **Network Scanning**
-  ![Nmap](https://img.shields.io/badge/Nmap-100%25-green?style=for-the-badge&logo=nmap)
+  <img src="https://nmap.org/images/nmap_logo.png" alt="Nmap" width="100" height="30" />
 
 ### **Web Application Testing**
   ![Wfuzz](https://img.shields.io/badge/Wfuzz-100%25-orange?style=for-the-badge&logo=python)
