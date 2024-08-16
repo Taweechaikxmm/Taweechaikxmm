@@ -56,7 +56,7 @@
 ![Nmap](https://img.shields.io/badge/Nmap--green?style=for-the-badge&logo=https://www.cellstream.com/wp-content/uploads/2014/07/nmap.png)
 
 ### **Web Application Testing**
-  ![Wfuzz](https://img.shields.io/badge/Wfuzz--orange?style=for-the-badge&logo=python)
+  [![Wfuzz](https://raw.githubusercontent.com/xmendez/wfuzz/1b695ee9a87d66a7d7bf6cae70d60a33fae51541/docs/_static/logo/wfuzz_letters.svg)](https://wfuzz.readthedocs.io/)
   ![Gobuster](https://img.shields.io/badge/Gobuster--lightgrey?style=for-the-badge&logo=go)
 
 ### **Web Security Testing**
