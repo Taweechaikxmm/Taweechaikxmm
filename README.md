@@ -14,7 +14,7 @@
 
 ## 💻 Skills
 ### **📚 Languages**
-![JavaScript](https://img.shields.io/badge/JavaScript-100%25-yellow?style=for-the-badge&logo=javascript)
+![JavaScript](https://img.shields.io/badge/JavaScript--yellow?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-80%25-blue?style=for-the-badge&logo=typescript)
 ![HTML5](https://img.shields.io/badge/HTML5-90%25-orange?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/CSS-85%25-blue?style=for-the-badge&logo=css3)
