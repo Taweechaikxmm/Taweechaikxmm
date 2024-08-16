@@ -64,6 +64,7 @@
   
 ### **Penetration Testing Distributions**
   <img src="https://www.kali.org/images/kali-logo.svg" alt="Kali Linux" width="100" height="30" />
+
 ## 📊 GitHub Stats
 <table>
   <tr>
