@@ -39,11 +39,12 @@
 ![Vite](https://img.shields.io/badge/Vite-100%25-lightblue?style=for-the-badge&logo=vite)
 
 ## GitHub Stats
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Taweechaikxmm&theme=radical)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Taweechaikxmm&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Taweechaikxmm&layout=donut-vertical&bg_color=000000)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Contributions
 ![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Taweechaikxmm&theme=dark)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Taweechaikxmm&theme=radical)
+
 
 
