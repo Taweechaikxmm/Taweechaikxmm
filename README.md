@@ -49,18 +49,18 @@
 ## 🔍 Pentest Skills
 
 ### **Network Scanning**
-  ![Nmap](https://img.shields.io/badge/Nmap-100%25-green?style=for-the-badge&logo=nmap)
+  ![Nmap](https://img.shields.io/badge/Nmap--green?style=for-the-badge&logo=nmap)
 
 ### **Web Application Testing**
-  ![Wfuzz](https://img.shields.io/badge/Wfuzz-100%25-orange?style=for-the-badge&logo=python)
-  ![Gobuster](https://img.shields.io/badge/Gobuster-100%25-lightgrey?style=for-the-badge&logo=go)
+  ![Wfuzz](https://img.shields.io/badge/Wfuzz--orange?style=for-the-badge&logo=python)
+  ![Gobuster](https://img.shields.io/badge/Gobuster--lightgrey?style=for-the-badge&logo=go)
 
 ### **Web Security Testing**
-  ![OWASP ZAP](https://img.shields.io/badge/OWASP%20ZAP-100%25-red?style=for-the-badge&logo=zap)
+  ![OWASP ZAP](https://img.shields.io/badge/OWASP%20ZAP--red?style=for-the-badge&logo=zap)
 
 ### **Exploit Tools**
-  ![Kiterunner](https://img.shields.io/badge/Kiterunner-100%25-yellow?style=for-the-badge&logo=python)
-  ![LOIC](https://img.shields.io/badge/LOIC-100%25-black?style=for-the-badge&logo=github)
+  ![Kiterunner](https://img.shields.io/badge/Kiterunner--yellow?style=for-the-badge&logo=python)
+  ![LOIC](https://img.shields.io/badge/LOIC--black?style=for-the-badge&logo=github)
   
 ### **Penetration Testing Distributions**
   <img src="https://www.kali.org/images/kali-logo.svg" alt="Kali Linux" width="100" height="30" />
