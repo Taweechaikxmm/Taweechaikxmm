@@ -1,5 +1,5 @@
 ### :raised_hand: Hey! Nice to see you.
-> My name is Taweechai Poedee. :dizzy:
+> I'm Kim.:dizzy:
 
 ![Coding GIF](https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif)
 
