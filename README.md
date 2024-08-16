@@ -8,6 +8,10 @@
 | 1 | Facebook | https://www.facebook.com/profile.php?id=100009374632098 |
 | 2 | Instagram | https://www.instagram.com/tpkxmm._ |
 
+## Skills
+- **Languages:** JavaScript, TypeScript, Python, C#, GO, Java, C, C++, PHP
+- **Frameworks:** React, .NET Core, Tailwind CSS, MUI
+- 
 ## GitHub Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Taweechaikxmm&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 ## Contributions
