@@ -8,8 +8,8 @@
 - 🚀 Passionate about software development and open source
 - 🌍 [Facebook](https://www.facebook.com/profile.php?id=100009374632098) | [Instagram](https://www.instagram.com/tpkxmm._)
 
-## Skills
-### **Languages**
+## 💻 Skills
+### **📚 Languages**
 ![JavaScript](https://img.shields.io/badge/JavaScript-100%25-yellow?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-80%25-blue?style=for-the-badge&logo=typescript)
 ![HTML5](https://img.shields.io/badge/HTML5-90%25-orange?style=for-the-badge&logo=html5)
@@ -22,18 +22,18 @@
 ![C++](https://img.shields.io/badge/C%2B%2B-40%25-green?style=for-the-badge&logo=cplusplus)
 ![PHP](https://img.shields.io/badge/PHP-30%25-blueviolet?style=for-the-badge&logo=php)
 
-### **Frameworks**
+### **🛠️ Frameworks**
 ![React](https://img.shields.io/badge/React-80%25-blue?style=for-the-badge&logo=react)
 ![.NET Core](https://img.shields.io/badge/.NET%20Core-70%25-green?style=for-the-badge&logo=dotnet)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-60%25-blue?style=for-the-badge&logo=tailwindcss)
 ![MUI](https://img.shields.io/badge/MUI-50%25-lightblue?style=for-the-badge&logo=mui)
 
-### **Databases**
+### **🗄️ Databases**
 ![MySQL](https://img.shields.io/badge/MySQL-100%25-blue?style=for-the-badge&logo=mysql)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-100%25-green?style=for-the-badge&logo=microsoftsqlserver)
 ![SQLite](https://img.shields.io/badge/SQLite-100%25-yellowgreen?style=for-the-badge&logo=sqlite)
 
-### **Tools:**
+### **🔧 Tools**
 ![Git](https://img.shields.io/badge/Git-100%25-red?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-100%25-black?style=for-the-badge&logo=github)
 ![GitLab](https://img.shields.io/badge/GitLab-100%25-orange?style=for-the-badge&logo=gitlab)
@@ -41,7 +41,7 @@
 ![VSCode](https://img.shields.io/badge/VS%20Code-100%25-blue?style=for-the-badge&logo=visualstudiocode)
 ![Vite](https://img.shields.io/badge/Vite-100%25-lightblue?style=for-the-badge&logo=vite)
 
-## GitHub Stats
+## 📊 GitHub Stats
 <table>
   <tr>
     <td>
@@ -58,9 +58,5 @@
   </tr>
 </table>
 
-## Contributions
+## 🎉 Contributions
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Taweechaikxmm&theme=dark" alt="GitHub Contributions" width="100%"/>
-
-
-
-
