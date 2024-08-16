@@ -79,7 +79,7 @@
 <table>
   <tr>
     <td>
-<img src="https://camo.githubusercontent.com/c1f600c4fe47414462cb42c5389bb13912c5e0a1c19f15c05e633d74b2b319a5/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d7461776565636861692d6c616874656e2d6861737472732d62647670786526" alt="Taweechai's GitHub stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=Taweechaikxmm&rank_icon=github" style="max-width: 100%;">
+<img src="https://github-readme-stats.vercel.app/api?username=Taweechaikxmm&show_icons=true&theme=radical" alt="GitHub Stats" width="100%"/>
     </td>
     <td rowspan="2">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Taweechaikxmm&layout=donut-vertical&bg_color=000000&text_color=FFFFFF" alt="Top Languages" />
