@@ -3,6 +3,7 @@
 
 ![Coding GIF](https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif)
 
+[![Coding GIF](https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif)](https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif)
 ## 🌟 About Me
 - 🎓 Graduated from [Suranaree University](https://www.su.ac.th)
 - 🚀 Passionate about software development and open source
