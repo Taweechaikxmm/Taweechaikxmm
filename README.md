@@ -86,6 +86,7 @@
 ![Nmap](https://img.shields.io/badge/Nmap--blue?style=for-the-badge&logo=https://www.cellstream.com/wp-content/uploads/2014/07/nmap.png)
 
 ### **Web Application Testing** 🌐
+  ![Burp Suite](https://img.shields.io/badge/Burp%20Suite--orange?style=for-the-badge&logo=burpsuite)
   ![Wfuzz](https://img.shields.io/badge/Wfuzz--darkblue?style=for-the-badge&logo=Wfuzz)
   ![Gobuster](https://img.shields.io/badge/Gobuster--lightgrey?style=for-the-badge&logo=gobuster)
 
