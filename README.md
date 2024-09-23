@@ -76,7 +76,10 @@
   
 ### **🧪 API Testing**
   ![Postman](https://img.shields.io/badge/Postman--orange?style=for-the-badge&logo=postman)
-
+  
+### **💻 Operating Systems**
+  ![Windows](https://img.shields.io/badge/Windows--blue?style=for-the-badge&logo=windows)
+  ![Linux](https://img.shields.io/badge/Linux--orange?style=for-the-badge&logo=linux)
 ## 🔍 Pentest Skills
 
 ### **Network Scanning** 🕵️‍♂️
