@@ -71,6 +71,12 @@
 ![VSCode](https://img.shields.io/badge/VS%20Code--blue?style=for-the-badge&logo=visualstudiocode)
 ![Vite](https://img.shields.io/badge/Vite--lightblue?style=for-the-badge&logo=vite)
 
+### **🌐 Web Servers**
+  ![Nginx](https://img.shields.io/badge/Nginx--green?style=for-the-badge&logo=nginx)
+  
+### **🧪 API Testing**
+  ![Postman](https://img.shields.io/badge/Postman--orange?style=for-the-badge&logo=postman)
+
 ## 🔍 Pentest Skills
 
 ### **Network Scanning** 🕵️‍♂️
