@@ -115,9 +115,6 @@
     </td>
   </tr>
   <tr>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Taweechaikxmm&theme=radical" alt="GitHub Streak" width="100%"/>
-    </td>
   </tr>
 </table>
 
