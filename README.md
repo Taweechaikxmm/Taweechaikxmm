@@ -49,6 +49,8 @@
 
 ### **🛠️ Frameworks**
 ![React](https://img.shields.io/badge/React--blue?style=for-the-badge&logo=react)
+![Angular(Basic)](https://img.shields.io/badge/Angular-red?style=for-the-badge&logo=angular)
+![Redux(Basic)](https://img.shields.io/badge/Redux-purple?style=for-the-badge&logo=redux)
 ![Node.js](https://img.shields.io/badge/Node.js--yellowgreen?style=for-the-badge&logo=node.js)
 ![Gin](https://img.shields.io/badge/Gin--blue?style=for-the-badge&logo=go)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS--blue?style=for-the-badge&logo=tailwindcss)
@@ -61,11 +63,12 @@
 ### **🔗 ORM**
 ![Gorm](https://img.shields.io/badge/Gorm--blue?style=for-the-badge&logo=go)
 
-### **🗄️ Databases**
+### **🗄️ Databases && Caching**
 ![MySQL](https://img.shields.io/badge/MySQL--blue?style=for-the-badge&logo=mysql)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server--green?style=for-the-badge&logo=microsoftsqlserver)
 ![SQLite](https://img.shields.io/badge/SQLite--yellowgreen?style=for-the-badge&logo=sqlite)
 ![MariaDB](https://img.shields.io/badge/MariaDB--003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis)
 
 ### **🔧 Tools**
 ![Git](https://img.shields.io/badge/Git--red?style=for-the-badge&logo=git)
