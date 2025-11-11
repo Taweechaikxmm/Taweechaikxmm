@@ -1,7 +1,6 @@
 # :raised_hand: Hey! Nice to see you. I'm Kxm.
 > I’m a software engineer with a keen interest in server management, configuration, and Infrastructure as Code (IaC).
 >
-> 🥷Currently, I work with GitLab, so my GitHub may not be as up-to-date.
 > 
 ![Coding GIF](https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif)
 
@@ -30,7 +29,6 @@
 ## 💻 Skills
 ### 🎓 Currently Learning
 ![React Native](https://img.shields.io/badge/React%20Native-Currently%20Learning-brightgreen?style=for-the-badge&logo=react)
-![Linux CLI](https://img.shields.io/badge/Linux%20CLI-Currently%20Learning-blue?style=for-the-badge&logo=linux)
 ![Flutter](https://img.shields.io/badge/Flutter-Currently%20Learning-blue?style=for-the-badge&logo=flutter)
 
 ### **📚 Languages**
@@ -89,6 +87,7 @@
 ### **💻 Operating Systems**
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 ## 🔍 Pentest Skills
 
 ### **Network Scanning** 🕵️‍♂️
