@@ -1,5 +1,5 @@
 # :raised_hand: Hey! Nice to see you. I'm Kxm.
-> I’m a software engineer with a keen interest in server management, configuration, and Infrastructure as Code (IaC).
+> I’m a software engineer with a keen interest in server management, configuration, and IaC.
 >
 > 
 ![Coding GIF](https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif)
