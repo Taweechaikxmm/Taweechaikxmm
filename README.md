@@ -10,7 +10,7 @@
 </p>
 
 - 🎓 Graduated with a Bachelor's degree in Computer Engineering from [Suranaree University Of Technology](https://www.sut.ac.th/)
-- 🚀 Passionate about software development and open source
+- 🚀 Focused on software development and open source
 - 🌍 <span><a href="https://www.facebook.com/profile.php?id=100009374632098" target="_blank">
   <img src="https://img.shields.io/badge/-Facebook-blue?style=flat-square&logo=facebook&logoColor=white" alt="Facebook Badge">
 </a><a href="https://www.instagram.com/tpkxmm._/" target="_blank">
@@ -111,9 +111,6 @@
 ## 📊 GitHub Stats
 <table>
   <tr>
-    <td>
-<img src="https://github-readme-stats.vercel.app/api?username=Taweechaikxmm&show_icons=true&theme=radical&bg_color=000000" alt="GitHub Stats" width="100%"/>
-    </td>
     <td rowspan="2">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Taweechaikxmm&layout=donut-vertical&bg_color=000000&text_color=FFFFFF" alt="Top Languages" />
     </td>
