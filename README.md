@@ -108,14 +108,4 @@
 ### **Penetration Testing Distributions** 💻
   <img src="https://www.kali.org/images/kali-logo.svg" alt="Kali Linux" width="100" height="30" />
 
-## 📊 GitHub Stats
-<table>
-  <tr>
-    <td rowspan="2">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Taweechaikxmm&layout=donut-vertical&bg_color=000000&text_color=FFFFFF" alt="Top Languages" />
-    </td>
-  </tr>
-  <tr>
-  </tr>
-</table>
 
